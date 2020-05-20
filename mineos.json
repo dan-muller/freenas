@@ -1,0 +1,16 @@
+{
+  "pkgs": [
+    "rdiff-backup",
+    "rsync", 
+    "gmake", 
+    "screen", 
+    "git-lite", 
+    "python3", 
+    "py37-supervisor", 
+    "node10", 
+    "npm-node10", 
+    "openjdk8-jre", 
+    "wget", 
+    "bash"
+  ]
+}
