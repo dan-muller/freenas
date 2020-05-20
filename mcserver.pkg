@@ -1,0 +1,6 @@
+{
+  "pkgs": [
+    "openjdk8",
+    "wget"
+  ]
+}
